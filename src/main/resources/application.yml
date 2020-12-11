@@ -1,0 +1,6 @@
+spring:
+  banner:
+    location: banner.txt
+  profiles:
+    active: dev
+##spring.datasource.url =
